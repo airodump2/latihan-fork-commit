@@ -7,5 +7,6 @@ menambahkan beberapa menu baru
 - seblak
   ^ sayur
   ^ korned
+- ayam geprek
 
 
