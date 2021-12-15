@@ -1,6 +1,10 @@
 menambahkan beberapa menu baru
 - bakso
+  ^ bakso udang
+  ^ bakso setan
 - mie ayam
 - mie yamin
 - seblak
+  ^ ceker
+  ^ korned
 - ayam geprek
