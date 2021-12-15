@@ -4,7 +4,4 @@ menambahkan beberapa menu baru
   ^ bakso setan
 - mie ayam
 - mie yamin
-- seblak
-  ^ ceker
-  ^ korned
-- ayam geprek
+
