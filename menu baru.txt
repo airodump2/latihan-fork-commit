@@ -5,5 +5,7 @@ menambahkan beberapa menu baru
 - mie ayam
 - mie yamin
 - seblak
+  ^ ceker
+  ^ korned
 - ayam geprek
 
